@@ -1,1 +1,34 @@
+Problem Statement: 
+BIXI Montréal is a public bicycle sharing system serving Montréal, Quebec, Canada. The name BIXI is a hybrid between "Bicycle" and "Taxi" to underline the concept of being able to use a bicycle just like a taxi.
 
+System Components:
+A complete station is made up of a pay station, bikes, and bike docks (where the bikes are kept), which are fitted into modular platforms that are powered by solar panels. These platforms are the base and electronic ports for pay stations and bike docks. Bike stations can be created, expanded, configured and removed in about half an hour, monitored by a real-time management system. Excavation or preparatory work is not required, allowing the installation of a bike station as an addition to on-street parking.
+
+Bike dock, locking system and pay station:
+Bike docks are used to store and lock bikes. These modular docking stations are formed by a combination of groups of four docks. The bike dock’s modularity allows a pay station to be used in the place of a single dock. Maintenance and repair of the system is simple because of a removable module present in every docking station which contains the locking system and all necessary parts that allow the system to function. In case of repairs, this module can be replaced with an identical one immediately, reducing the down-time of the system. The locking system is based on an energy efficient motor used in the medical sector. Users can rent a bike by inserting a subscriber key (a "BIXI key") obtained through a long-term online subscription (30 days or annual) into a bike dock. Alternatively an access code can be obtained at the pay station (24-hour or 72-hour access). Pay stations are touchscreen-operated and only accept credit cards. A button on the bike dock is used to notify BIXI mechanics of bicycles requiring servicing.
+
+Bikes:
+The bicycles are utility bicycles with a unisex step-through frame and three gears. The one-piece aluminum frame and handlebars hide cables in an effort to protect them from tampering and harsh weather conditions. The heavy-duty tires are designed to be puncture-resistant and are filled with nitrogen gas to maintain proper pressure for longer. Twin LED rear lights are found inside the frame, and the sturdy frame weighs approximately 18 kg (40 lb). White LED lights are found in the front of the bike.
+
+Rates:
+In order to use the system, users need to take out a subscription, which allows the subscriber an unlimited number of rentals under 30 minutes for 1 day and 3 days subscriptions, and under 45 minutes for 1 month and 1 year subscriptions. A trip that lasts longer than this “no-charge” time period gets additional charges, on an increasing price scale. The increasing price scale is meant to keep the bikes in circulation. Subscriptions can be purchased at $5 per day, $14 for 3 days (at a pay station only), $30,25 per month or $80,50 per year. Alternatively, a single ride fee of $2,75 can be paid for a single 30 minutes trip. time first 30 or 45 minutes up to 60 minutes 61 to 90 minutes subsequent 30 minute periods rate included in subscription $1.75 $3.5 $7
+
+Taking a Bike:
+• Non-Members:
+– Go to the pay station, choose the bike icon, buy your 1-day access, 3-day access or one-way trip, then read and accept the user contract. Pay by inserting your credit card (Visa, MasterCard or AMEX). A $100 deposit is placed on your credit card for a maximum of 10 days. Your credit card is used to identify you as a user; a maximum of four (4) 1- or 3-day accesses per credit card is permitted at one time.
+– Print or view your unlocking code on the screen. It is valid for 5 minutes.
+– Enter your unlocking code on the keypad of the bike dock of your choice. When you see the green light turn on, pull the handlebars firmly toward you to release the bike.
+• BIXI Members:
+– Insert your key in the bike dock of your choice. When you see the green light turn on, pull the handlebars firmly toward you to release the bike.
+
+Riding a Bike:
+• Adjust the seat height, put your bag in the basket and ride!
+• The 30/45 minutes included in your purchase start now!
+• Using the BIXI app, you can plan your trips and view a map of the stations. You can also locate available docking points at the stations closest to your destination.
+• Need to check the map while en route? Be safe and make sure that you find a good place to stop.
+• Download the free mobile app from the App Store or Google Play.
+
+Returning a Bike:
+• Return the bike to any of the 540 BIXI stations. Push the front wheel firmly into an empty bike dock. IMPORTANT: Make sure the green light comes on after docking the bike.
+• You have to wait 2 minutes before taking out another bike. To get a new unlocking code during your 1- or 3- day access period, insert your credit card again: the system will recognize it and no additional fees will be charged to your card if you make trips under 30 minutes.
+• Tip: If your destination station is full, you can request another 15 minutes, free of charge, to give enough time to return the bike at the next closest available station.
